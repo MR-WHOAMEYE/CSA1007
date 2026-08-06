@@ -4,58 +4,13 @@
 ### Academic Submission Repository
 
 **Student Name:** Tharankeswaran M &nbsp;|&nbsp; **Register Number:** 192424081  
-**Department:** Computer Science and Engineering  
-**Institution:** SIMATS Engineering (Saveetha School of Engineering)
-
+**Department:** AIDS   
+**Institution:** SIMATS Engineering 
 </div>
 
 ---
 
-## Repository Structure
-
-```
-CSA1007/
-├── Assessment/
-│   ├── 192424081-CO1-AT-1.pdf
-│   ├── 192424081-CO1-AT-2.pdf
-│   ├── CSA1007-CO2 AT1 Scenario-Based Requirement Analysis.pdf
-│   └── CSA1007-CO2 AT2 Architecture Design Assignment.pdf
-└── Lab/
-    ├── Exp01/  [Pending]
-    ├── Exp02/  [Pending]
-    ├── Exp03/  [Pending]
-    ├── Exp04/  [Pending]
-    ├── Exp05/  [Pending]
-    ├── Exp06/  [Pending]
-    ├── Exp07/  [Pending]
-    ├── Exp08/  [Pending]
-    ├── Exp09/  [Pending]
-    ├── Exp10/  [Pending]
-    ├── Exp11/  [Pending]
-    ├── Exp12/  [Pending]
-    ├── Exp13/  [Pending]
-    ├── Exp14/  [Pending]
-    ├── Exp15/  [Pending]
-    ├── Exp16/  [Pending]
-    ├── Exp17/  [Pending]
-    ├── Exp18/  [Pending]
-    ├── Exp19/  [Pending]
-    ├── Exp20/  [Pending]
-    ├── Exp21/  [Pending]
-    ├── Exp22/  [Pending]
-    ├── Exp23/  [Pending]
-    ├── Exp24/  [Pending]
-    ├── Exp25/  [Pending]
-    ├── Exp26/  [Pending]
-    ├── Exp27/  [Pending]
-    ├── Exp28/  [Pending]
-    ├── Exp29/  [Pending]
-    └── Exp30/  [Pending]
-```
-
----
-
-## Assessment Submissions
+## Assessment Tool Submissions
 
 | CO | Assessment Tool | File | Status | Link |
 |:--:|:--|:--|:--:|:--|
@@ -131,6 +86,48 @@ CSA1007/
 **Legend:** ✅ Completed &nbsp;|&nbsp; ⏳ Pending &nbsp;|&nbsp; 🔄 In Progress
 
 ---
+## Repository Structure
+
+```
+CSA1007/
+├── Assessment/
+│   ├── 192424081-CO1-AT-1.pdf
+│   ├── 192424081-CO1-AT-2.pdf
+│   ├── CSA1007-CO2 AT1 Scenario-Based Requirement Analysis.pdf
+│   └── CSA1007-CO2 AT2 Architecture Design Assignment.pdf
+└── Lab/
+    ├── Exp01/  
+    ├── Exp02/  
+    ├── Exp03/  
+    ├── Exp04/  
+    ├── Exp05/  
+    ├── Exp06/  
+    ├── Exp07/  
+    ├── Exp08/  
+    ├── Exp09/  
+    ├── Exp10/  
+    ├── Exp11/  
+    ├── Exp12/  
+    ├── Exp13/  
+    ├── Exp14/  
+    ├── Exp15/  
+    ├── Exp16/  
+    ├── Exp17/  
+    ├── Exp18/  
+    ├── Exp19/  
+    ├── Exp20/  
+    ├── Exp21/  
+    ├── Exp22/  
+    ├── Exp23/  
+    ├── Exp24/  
+    ├── Exp25/  
+    ├── Exp26/  
+    ├── Exp27/  
+    ├── Exp28/  
+    ├── Exp29/  
+    └── Exp30/  
+```
+---
 
 ## Academic Integrity
 
@@ -138,4 +135,4 @@ All submissions in this repository are original work prepared by **Tharankeswara
 
 ---
 
-<div align="right"><i>Last Updated: August 2026</i></div>
+<div align="right"><i>Last Updated: 06 August 2026</i></div>
