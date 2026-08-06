@@ -131,7 +131,7 @@ CSA1007/
 
 ## Academic Integrity
 
-All submissions in this repository are original work prepared by **Tharankeswaran M (192424081)** in accordance with the academic integrity guidelines specified by SIMATS Engineering (Saveetha School of Engineering).
+All submissions in this repository are original work prepared by **Tharankeswaran M (192424081)** in accordance with the academic integrity guidelines specified by SIMATS Engineering.
 
 ---
 
