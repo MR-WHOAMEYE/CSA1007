@@ -18,6 +18,8 @@
 | **CO1** | AT-2: Agile Sprint Planning | `192424081-CO1-AT-2.pdf` | ✅ Completed | [View](Assessment/192424081-CO1-AT-2.pdf) |
 | **CO2** | AT-1: Scenario-Based Requirement Analysis | `CSA1007-CO2 AT1 Scenario-Based Requirement Analysis.pdf` | ✅ Completed | [View](Assessment/CSA1007-CO2%20AT1%20Scenario-Based%20Requirement%20Analysis.pdf) |
 | **CO2** | AT-2: Architecture Design Assignment | `CSA1007-CO2 AT2 Architecture Design Assignment.pdf` | ✅ Completed | [View](Assessment/CSA1007-CO2%20AT2%20Architecture%20Design%20Assignment.pdf) |
+| **CO3** | AT-1: Git & Docker Technical Assignment | `CSA10-CO3 AT1 Git & Docker Technical Assignment.pdf` | ✅ Completed | [View](Assessment/CSA10-CO3%20AT1%20Git%20%26%20Docker%20Technical%20Assignment.pdf) |
+| **CO3** | AT-2: Code Review & Repository Evaluation | `CSA10-CO3 AT2 Code Review & Repository Evaluation.pdf` | ✅ Completed | [View](Assessment/CSA10-CO3%20AT2%20Code%20Review%20%26%20Repository%20Evaluation.pdf) |
 
 ---
 
@@ -79,13 +81,13 @@
 
 | Category | Total | Completed | Pending |
 |:---|:---:|:---:|:---:|
-| **Assessments** | 4 | 4 | 0 |
+| **Assessments** | 6 | 6 | 0 |
 | **Lab Experiments** | 30 | 0 | 30 |
-| **Overall** | 34 | 4 | 30 |
+| **Overall** | 36 | 6 | 30 |
 
 **Legend:** ✅ Completed &nbsp;|&nbsp; ⏳ Pending &nbsp;|&nbsp; 🔄 In Progress
-
 ---
+
 ## Repository Structure
 
 ```
@@ -135,4 +137,4 @@ All submissions in this repository are original work prepared by **Tharankeswara
 
 ---
 
-<div align="right"><i>Last Updated: 06 August 2026</i></div>
+<div align="right"><i>Last Updated: 25 August 2026</i></div>
