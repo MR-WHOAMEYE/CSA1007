@@ -20,6 +20,10 @@
 | **CO2** | AT-2: Architecture Design Assignment | `CSA1007-CO2 AT2 Architecture Design Assignment.pdf` | ✅ Completed | [View](Assessment/CSA1007-CO2%20AT2%20Architecture%20Design%20Assignment.pdf) |
 | **CO3** | AT-1: Git & Docker Technical Assignment | `CSA10-CO3 AT1 Git & Docker Technical Assignment.pdf` | ✅ Completed | [View](Assessment/CSA10-CO3%20AT1%20Git%20%26%20Docker%20Technical%20Assignment.pdf) |
 | **CO3** | AT-2: Code Review & Repository Evaluation | `CSA10-CO3 AT2 Code Review & Repository Evaluation.pdf` | ✅ Completed | [View](Assessment/CSA10-CO3%20AT2%20Code%20Review%20%26%20Repository%20Evaluation.pdf) |
+| **CO4** | AT-1: Test Case Design Assignment | `CSA10-CO4 AT1 Test Case Design Assignment.pdf` | ✅ Completed | [View](Assessment/CSA10-CO4%20AT1%20Test%20Case%20Design%20Assignment.pdf) |
+| **CO4** | AT-2: CI/CD Pipeline Design Exercise | `CSA10-CO4 AT2 CI-CD Pipeline Design Exercise.pdf` | ✅ Completed | [View](Assessment/CSA10-CO4%20AT2%20CI-CD%20Pipeline%20Design%20Exercise.pdf) |
+| **CO5** | AT-1: Research Paper Review / Literature Survey | `CSA10-CO5 AT1 Research Paper Review.pdf` | ✅ Completed | [View](Assessment/CSA10-CO5%20AT1%20Research%20Paper%20Review.pdf) |
+| **CO5** | AT-2: Seminar on Emerging Technologies | `CSA10-CO5 AT2 Seminar on Emerging Technologies.pdf` | ✅ Completed | [View](Assessment/CSA10-CO5%20AT2%20Seminar%20on%20Emerging%20Technologies.pdf) |
 
 ---
 
@@ -81,9 +85,9 @@
 
 | Category | Total | Completed | Pending |
 |:---|:---:|:---:|:---:|
-| **Assessments** | 6 | 6 | 0 |
+| **Assessments** | 10 | 10 | 0 |
 | **Lab Experiments** | 30 | 30 | 0 |
-| **Overall** | 36 | 36 | 0 |
+| **Overall** | 40 | 40 | 0 |
 
 **Legend:** ✅ Completed &nbsp;|&nbsp; ⏳ Pending &nbsp;|&nbsp; 🔄 In Progress
 ---
